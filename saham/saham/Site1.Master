@@ -1,0 +1,105 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="saham.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+    <link rel="stylesheet" type="text/css" href="css/main.css"/>
+    <link rel="stylesheet" type="text/css" href="css/dropmenu.css"/>
+    <link rel="stylesheet" type="text/css" href="css/footer.css"/>
+
+    <style type="text/css">
+        
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <div id="wrapper">
+        <div id="container">
+            <div id="header">
+
+                <div id="navigation">
+                    <ul id="dropmenu">
+                        <li id="home"><a href="anasayfa.aspx" title="Saha">Anasayfa</a></li>
+                        <li> <a href="hakkimizda.aspx">Hakkımızda</a></li>
+                        <li> <a href="harita.aspx">HARİTA</a></li>
+                        <li> <a href="rezervasyon.aspx">REZERVASYON</a></li>
+                        <li> <a href="admin.aspx">ADMİN GİRİŞİ</a></li>
+                        <li> <a href="iletisim.aspx">İLETİŞİM</a></li>
+                    </ul>
+
+                    <div class="clearfix"></div>
+                </div> <!-- Navigation Sonu -->
+
+                <center>
+                        <img width="1000" height="300" src="images/1.jpg"/>					
+                </center>
+
+                <div id="main">
+
+                    <div id="content">
+                        <div id="contentinner">
+                            <div id="post-entry">
+
+                                    <div>
+                                        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                                        </asp:ContentPlaceHolder>
+                                    </div>
+
+                                    <div class="clearfix"></div>
+                                </div><!-- Post-Entry-Sonu -->
+                            </div><!-- Contentinner-Sonu -->
+                        </div><!-- Content-Sonu -->
+
+                    <div id="sidebar">
+                        <div id="sidebarinner">
+                            <ul class="sidebar_list">
+                                <li id="widget_ads">
+                                    <div>
+                                        <a href="#"><img src="images/nike-hali-saha-ligi.jpg" /></a>
+                                    </div>
+                                </li><!-- Widget-Ads-Sonu -->
+                            </ul><!-- Sidebar-List-Sonu -->
+
+                            <ul class="sidebar_list">
+                                <li id="widget_ads">
+                                    <div>
+                                        <a href="#"><img src="images/nike-hali-saha-ligi.jpg" /></a>
+                                    </div>
+                                </li><!-- Widget-Ads-Sonu -->
+                            </ul><!-- Sidebar-List-Sonu -->
+
+                        </div><!-- Sidebarinner-Sonu -->
+                    </div><!-- Sidebar-Sonu -->
+                    <div class="clearfix"></div>
+
+                    <div id="content">
+                        <div id="contentinner">
+                            <div id="post-entry">
+
+                                    <div>
+                                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                        </asp:ContentPlaceHolder>
+                                    </div>
+
+                                    <div class="clearfix"></div>
+                                </div><!-- Post-Entry-Sonu -->
+                            </div><!-- Contentinner-Sonu -->
+                        </div><!-- Content-Sonu -->
+                </div><!-- Main-Sonu -->
+
+                <div id="footer">
+                    Halı Saha
+                    <div id="footer-right"> 
+                        Web Tasarım & Geliştirici: Abdullah ŞAHİN 
+                    </div><!-- Footer-Sağ-Sonu -->
+                    <div class="clearfix"></div>
+                </div><!-- Footer-Sonu -->
+            </div><!-- Header-Sonu -->
+        </div><!-- Container-Sonu -->
+    </div><!-- Wrapper-Sonu -->
+</body>
+</html>

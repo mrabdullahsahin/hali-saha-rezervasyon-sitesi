@@ -1,0 +1,76 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="saham.Site2" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <%--<link href="css/adminpaneli/dropmenu.css" rel="stylesheet" type="text/css" />
+    <link href="css/adminpaneli/footer.css" rel="stylesheet" type="text/css" />
+    <link href="css/adminpaneli/main.css" rel="stylesheet" type="text/css"/>--%>
+
+    <link href="css/dropmenu.css" rel="stylesheet" />
+    <link href="css/footer.css" rel="stylesheet" />
+    <link href="css/main.css" rel="stylesheet" />
+
+
+<%--    <link href="css/adminpaneli/footer.css" rel="stylesheet" />
+    <link href="css/adminpaneli/dropmenu.css" rel="stylesheet" />
+    <link href="css/adminpaneli/main.css" rel="stylesheet" />--%>
+
+
+    <style type="text/css">
+        
+    </style>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="container">
+            <div id="header">
+
+                <div id="navigation">
+                    <ul id="dropmenu">
+                        <li id="home"><a href="adminpaneli.aspx" title="Saha">Anasayfa</a></li>
+                        <li> <a href="onaybekleyenler.aspx">Onay Bekleyenler</a></li>
+                        <li> <a href="onaylananlar.aspx">Onaylananlar</a></li>
+                        <li> <a href="iletisimkutusu.aspx">İletişim Kutusu</a></li>
+                        <li> <a href="anasayfa.aspx">Çıkış Yap</a></li>
+                    </ul>
+
+                    <div class="clearfix"></div>
+                </div> <!-- Navigation Sonu -->
+
+                <center>
+                        <img width="1000" height="300" src="images/1.jpg"/>					
+                </center>
+
+                <div id="main">
+
+                    <div id="content">
+                        <div id="contentinner">
+                            <div id="post-entry">
+                                    <div>
+                                        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                                        </asp:ContentPlaceHolder>
+                                    </div>
+
+                                    <div class="clearfix"></div>
+                                </div><!-- Post-Entry-Sonu -->
+                            </div><!-- Contentinner-Sonu -->
+                        </div><!-- Content-Sonu -->
+                </div><!-- Main-Sonu -->
+
+                <div id="footer">
+                    Halı Saha
+                    <div id="footer-right"> 
+                        Web Tasarım & Geliştirici: Abdullah ŞAHİN 
+                    </div><!-- Footer-Sağ-Sonu -->
+                    <div class="clearfix"></div>
+                </div><!-- Footer-Sonu -->
+            </div><!-- Header-Sonu -->
+        </div><!-- Container-Sonu -->
+    </div><!-- Wrapper-Sonu -->
+</body>
+</html>

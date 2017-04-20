@@ -1,0 +1,66 @@
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\ApplicationInsights.config
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\roslyn\csc.exe
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\roslyn\vbc.exe
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\saham.dll.config
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\saham.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\saham.pdb
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\Microsoft.AI.Web.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\Microsoft.AI.Web.xml
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\obj\Debug\saham.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\obj\Debug\saham.pdb
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\saham\saham\obj\Debug\saham.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\ApplicationInsights.config
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\roslyn\csc.exe
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\roslyn\vbc.exe
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\saham.dll.config
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\saham.dll
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\saham.pdb
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\Microsoft.AI.Web.dll
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\Microsoft.AI.Web.xml
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Abdullah\Desktop\12542532\saham\saham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abdullah\Desktop\12542532\saham\saham\obj\Debug\saham.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah\Desktop\12542532\saham\saham\obj\Debug\saham.dll
+C:\Users\Abdullah\Desktop\12542532\saham\saham\obj\Debug\saham.pdb
